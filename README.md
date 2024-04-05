@@ -18,12 +18,13 @@ Este script Python permite traduzir os dados de um arquivo DBF (dBase) para um n
 
 ## Como Usar:
 
-1. Defina o dicionário de traduções no script. Adicione novos acrônimos e seus respectivos significados conforme necessário.
+1. Execute o script bash para instalação das dependencias, Certifique-se de que o arquivo .sh tenha permissões de execução. Se não tiver, você pode concedê-las usando o comando 'chmod +x dependencies.sh'  => depois => bash dependencies.sh
    
-2. Especifique o caminho para o arquivo DBF de entrada (caminho_dbf) e o caminho para o arquivo DBF de saída (caminho_output_dbf) no script.
+2. Defina o dicionário de traduções no script. Adicione novos acrônimos e seus respectivos significados conforme necessário.
 
-3. Execute o script Python.
+3. Especifique o caminho para o arquivo DBF de entrada (caminho_dbf) e o caminho para o arquivo DBF de saída (caminho_output_dbf) no script.
 
+4. Execute o script Python.
 ## Exemplo de Uso:
 python3 translate_script.py --input arquivo_entrada.txt --output arquivo_saida.txt
 
