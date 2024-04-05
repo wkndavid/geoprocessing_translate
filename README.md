@@ -67,9 +67,8 @@ O script configura o registro de log para registrar mensagens de informação e 
 
 ## Autor:
 
-David Jesus
-
+# [David Jesus]
 ## Data:
 
-05/04/2024# geoprocessing_translate
+# [05/04/2024]
 # geoprocessing_translate
